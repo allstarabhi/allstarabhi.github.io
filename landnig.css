@@ -53,7 +53,7 @@ body{
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    background:linear-gradient(rgb(255, 20, 20), rgba(105, 128, 0, 0.83));
+    background:linear-gradient(rgb(20, 255, 47), rgba(0, 98, 128, 0.83));
     padding:5.5rem;
 }
 
